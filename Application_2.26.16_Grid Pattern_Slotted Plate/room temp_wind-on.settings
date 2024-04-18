@@ -1,0 +1,18 @@
+[Camera]
+Model=PSP-CCD-M(mono)
+SN=440101
+Connection=GigE
+Cam_IP=192.168.1.22
+CCD_Temp=48C
+Exposure=300000us
+Exposure_Mode=Internal
+Ext_Trigger=1
+Over_Clocked=0
+
+[Capture]
+Frames=25
+Folder=C:\\Users\\SPALLUCONI\\Desktop\\TSP Heat Flux\\2.26.16_Grid Pattern_Slotted Plate
+Prefix=room temp
+Point=wind-on
+Average=1
+Time=Fri_Feb_26_2016_12:21:23
